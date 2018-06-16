@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.bozemanscience.com/the-greenhouse-effect");
+header("Location: https://ghgprotocol.org");
 die();
 ?>
